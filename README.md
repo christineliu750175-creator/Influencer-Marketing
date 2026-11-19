@@ -18,5 +18,5 @@ The positive relationship between influencer trustworthiness and consumer purcha
 H5. The AI Influencer Paradox
 The effect of influencer type (human vs. AI-generated influencer) on consumer purchase intention is moderated by product category.
 
-### H6. LLM vs. Human Consumer Responses
+H6. LLM vs. Human Consumer Responses
 LLM-generated synthetic consumer responses systematically overestimate the positive effect of influencer credibility on purchase intention compared with real human survey data.
